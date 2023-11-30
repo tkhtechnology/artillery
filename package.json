@@ -3,7 +3,7 @@
     "packages/*"
   ],
   "bin": {
-    "artillery": "./node_modules/artillery/bin/run"
+    "artillery": "./packages/artillery/bin/run"
   },
   "engines": {
     "node": ">= 18.16.1"
