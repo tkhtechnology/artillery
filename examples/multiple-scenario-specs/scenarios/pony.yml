@@ -1,7 +1,0 @@
-scenarios:
-  - name: Pony
-    flow:
-      - get:
-          url: "/pony"
-          expect:
-            statusCode: 200
